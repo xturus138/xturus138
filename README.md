@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Kosan App**
 
-- 🌱 I’m currently learning **App Developer**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 💬 Ask me about **Android, Website, Tech**
 

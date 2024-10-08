@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xturus138&label=Profile%20views&color=0e75b6&style=flat" alt="xturus138" /> </p>
 
-- 🔭 I’m currently working on **Kosan Website**
+- 🔭 I’m currently working on **Weather App**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **MVVM**
 
 - 💬 Ask me about **Android, Website, Tech**
 

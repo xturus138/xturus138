@@ -15,7 +15,7 @@
 </p>
 
 
-- 🔥 I’m currently working on **[Snailly App](https://play.google.com/store/apps/details?id=com.snailly.appname&hl=id)**
+- 🔥 I’m currently working on **[Snailly App](https://play.google.com/store/apps/details?id=com.snailly.appname&hl=id) (Private Repo)**
 
 - 🌱 I’m currently learning **Kotlin intermediate**
 

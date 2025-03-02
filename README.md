@@ -46,5 +46,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xturus138&show_icons=true&theme=tokyonight&locale=en" alt="xturus138" /></p>
 
+<h3 align="left">Achievements:</h3>
+
+[![GitHub achievements](https://github-readme-achievements.vercel.app/api?username=xturus138)](https://github.com/ryo-ma/github-readme-achievements)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=xturus138&theme=onedark)](https://github.com/xturus138)
 

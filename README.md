@@ -66,10 +66,6 @@
 
 <h3 align="left">Achievements:</h3>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-readme-achievements">
-    <img src="https://github-readme-achievements.vercel.app/api?username=xturus138" alt="GitHub Achievements" />
-  </a>
-  <a href="https://github.com/xturus138">
-    <img src="https://github-profile-trophy.vercel.app/?username=xturus138&theme=onedark" alt="GitHub Trophy" />
-  </a>
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=xturus138" alt="GitHub Stats Advanced" />
+  <img src="https://stats.hyo.dev/api/github-trophies?login=xturus138" alt="GitHub Trophies" />
 </p>

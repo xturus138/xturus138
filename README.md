@@ -4,11 +4,11 @@
 <h3 align="center">A student who is interested in app development</h3>
 
 <img align = "right" alt = "Coding" width = "400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xturus138&label=Profile%20views&color=0e75b6&style=flat" alt="xturus138" /> </p> 
-
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:radityaramadhan.138@gmail.com)
-
-[![GitHub latest commit](https://badgen.net/github/last-commit/xturus138/xturus138)](https://GitHub.com/xturus138/xturus138/commit/)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=xturus138&label=Profile%20views&color=0e75b6&style=flat" alt="xturus138" /> 
+  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:radityaramadhan.138@gmail.com)
+  [![GitHub latest commit](https://badgen.net/github/last-commit/xturus138/xturus138)](https://GitHub.com/xturus138/xturus138/commit/)
+</p> 
 
 - 🔥 I’m currently working on **Kosan App**
 
@@ -42,5 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xturus138&show_icons=true&theme=tokyonight&locale=en" alt="xturus138" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xturus138&theme=onedark)](https://github.com/xturus138)
-
-![snake animation](https://github.com/xturus138/snk/raw/output/github-contribution-grid-snake.svg)

@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/xturus138)
 
 <h1 align="center">Hi 👋, 🙋 I'm Raditya Ramadhan</h1>
 <h3 align="center">A student who is interested in app development</h3>
@@ -8,7 +8,7 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:radityaramadhan.138@gmail.com)
 
-[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/xturus138/xturus138)](https://GitHub.com/xturus138/xturus138/commit/)
 
 - 🔥 I’m currently working on **Kosan App**
 
@@ -41,6 +41,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xturus138&show_icons=true&theme=tokyonight&locale=en" alt="xturus138" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xturus138&theme=onedark)](https://github.com/xturus138)
 
-![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/xturus138/snk/raw/output/github-contribution-grid-snake.svg)

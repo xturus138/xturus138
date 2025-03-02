@@ -4,7 +4,9 @@
 <h3 align="center">A student who is interested in app development</h3>
 
 <img align = "right" alt = "Coding" width = "400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](radityaramadhan.138@gmail.com)
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:radityaramadhan.138@gmail.com)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xturus138&label=Profile%20views&color=0e75b6&style=flat" alt="xturus138" /> </p>
 
 - 🔭 I’m currently working on **Kosan App**

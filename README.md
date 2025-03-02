@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Android, Website, Tech**
 
-- 📧 How to reach me **radityaramadhan.138@gmail.com**
+- 💎 How to reach me **radityaramadhan.138@gmail.com**
 
 - ⚡ Fun fact **I'm a curious person**
 
@@ -42,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xturus138&show_icons=true&theme=tokyonight&locale=en" alt="xturus138" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xturus138&theme=onedark)](https://github.com/xturus138)
+
+![snake animation](https://github.com/xturus138/snk/raw/output/github-contribution-grid-snake.svg)
